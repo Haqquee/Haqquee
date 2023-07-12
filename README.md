@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, My name is Mishran</h1>
 <h3 align="center">I am an Aerospace Engineering Graduate with a Minor in Computer Science, and Passion for Software Engineering.</h3>
 
-- 🌱 I’m currently developing my skills in **Machine Learning, Computer Vision, Computer Graphics and Low-level programming.**
+- 🌱 I’m currently developing my skills in **Machine Learning, Computer Vision, and Low-level programming.**
 
 - 👨‍💻 My portfolio is currently in development [https://haqquee.github.io/MishranH-Portfolio/](https://haqquee.github.io/MishranH-Portfolio/)
 
