@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently developing my skills in **Machine Learning, Computer Vision, and Low-level programming.**
 
-- 👨‍💻 My portfolio is currently in development [https://haqquee.github.io/MishranH-Portfolio/](https://haqquee.github.io/MishranH-Portfolio/)
+- 👨‍💻 My portfolio: [https://my-portfolio-black-eight.vercel.app/](https://my-portfolio-black-eight.vercel.app/)
 
 - 📫 Reach me at **mishran.haque@gmail.com**
 
