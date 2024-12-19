@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently developing my skills in **Machine Learning, Game Development, and Low-level programming.**
 
-- 👨‍💻 My portfolio: [https://my-portfolio-black-eight.vercel.app/](https://my-portfolio-black-eight.vercel.app/)
+- 👨‍💻 My portfolio: [mishran-haque-portfolio.vercel.app](mishran-haque-portfolio.vercel.app)
 
 - 📫 Reach me at **mishran.haque@gmail.com**
 
